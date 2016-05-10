@@ -80,8 +80,8 @@ Rails.application.configure do
   config.action_mailer.default_url_options = { host: 'dry-sea-23531.herokuapp.com/' }
   config.action_mailer.delivery_method = :smtp
   config.action_mailer.smtp_settings = {
-    :user_name => '2593e673e51a03',
-    :password => '4d417318f26a53',
+    :user_name => '96466c0b2bfc19',
+    :password => '06ad07bc1e9dd1',
     :address => 'mailtrap.io',
     :domain => 'mailtrap.io',
     :port => '2525',
